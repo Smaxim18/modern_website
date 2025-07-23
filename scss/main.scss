@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@use 'reset';
+@use 'variables';
+@use 'fonts';
+@use 'mixins';
+@use 'core';
+
+@use 'blocks/intro.scss';
+@use 'blocks/features.scss';
+@use 'blocks/roadmap.scss';
+@use 'blocks/pricingPlans.scss';
+@use 'blocks/footer.scss'
